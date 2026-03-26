@@ -1,0 +1,11 @@
+image_filenames,label_filenames
+patient41/patient41_ES.nii.gz,patient41/patient41_ES_gt.nii.gz
+patient41/patient41_ED.nii.gz,patient41/patient41_ED_gt.nii.gz
+patient22/patient22_ES.nii.gz,patient22/patient22_ES_gt.nii.gz
+patient22/patient22_ED.nii.gz,patient22/patient22_ED_gt.nii.gz
+patient03/patient03_ES.nii.gz,patient03/patient03_ES_gt.nii.gz
+patient03/patient03_ED.nii.gz,patient03/patient03_ED_gt.nii.gz
+patient35/patient35_ES.nii.gz,patient35/patient35_ES_gt.nii.gz
+patient35/patient35_ED.nii.gz,patient35/patient35_ED_gt.nii.gz
+patient24/patient24_ES.nii.gz,patient24/patient24_ES_gt.nii.gz
+patient24/patient24_ED.nii.gz,patient24/patient24_ED_gt.nii.gz

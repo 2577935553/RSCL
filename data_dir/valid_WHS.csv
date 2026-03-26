@@ -1,0 +1,5 @@
+image_filenames,label_filenames
+patient13/patient13_image.nii.gz,patient13/patient13_label.nii.gz
+patient14/patient14_image.nii.gz,patient14/patient14_label.nii.gz
+patient15/patient15_image.nii.gz,patient15/patient15_label.nii.gz
+patient16/patient16_image.nii.gz,patient16/patient16_label.nii.gz
